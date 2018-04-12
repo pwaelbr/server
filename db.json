@@ -1,10 +1,11 @@
+
 {
 	"posts": [{
 			"_id": 1,
 			"title": "Politica",
 			"comments": [{
 				"nome": "Elizabeth",
-				"comment": "Presidente fez discurso em abertura da primeira reunião ministerial após as mudanças nos comandos das pastas. Ele afirmou que a intervenção federal na segurança do Rio já produz resultados"
+				"comment": "Presidente fez discurso em abertura da primeira reunião ministerial após as mudanças nos comandos das pastas Ele afirmou que a intervenção federal na segurança do Rio já produz resultados"
 			}]
 
 		},
@@ -13,7 +14,7 @@
 			"title": "Esporte",
 			"comments": [{
 				"nome": "Heitor",
-				"comment": "Protagonista do controverso lance, zagueiro marroquino se revolta com juiz: “Futebol segue sendo um esporte de contato. Mas não tentei derrubá-lo”. Vázquez pensa o contrário"
+				"comment": "Protagonista do controverso lance zagueiro marroquino se revolta com juiz Futebol segue sendo um esporte de contato Mas não tentei derrubá-lo Vázquez pensa o contrário"
 			}]
 		}
 	]
